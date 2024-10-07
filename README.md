@@ -1,7 +1,7 @@
 # **Text Clustering and Topic Modeling** 🗂️
 
 ## **Project Overview**  
-This repository contains an in-depth notebook focused on text clustering and topic modeling, utilizing a dataset of ideas provided in an Excel sheet. The project explores data preprocessing, dimensionality reduction, and multiple clustering algorithms to extract meaningful insights from textual data. 🌟
+This repository contains an in-depth notebook focused on text clustering and topic modeling, utilizing a dataset of ideas provided in an Excel sheet. The project explores data preprocessing, dimensionality reduction, and multiple clustering algorithms to extract meaningful insights from textual data. Basically this project was done to understand Natural Language Processing in depth and also am currently working on the research paper based on this project🌟
 
 ## **Achievements** ✅  
 - Successfully preprocessed and cleaned a dataset of textual ideas.
